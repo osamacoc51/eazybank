@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Osama - Product Owner"
+    email: "osmamd496@gmail.com"
+  onCallSupport:
+    +91 7717796476
+    +91 7209393151
